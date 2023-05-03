@@ -5,6 +5,7 @@ This is a React Native app built with TypeScript that lets users take a quiz to 
 1. Clone this repository to your local machine.
 2. Open a terminal window and navigate to the project directory.
 3. Run the command npm install to install the app's dependencies.
+4. If building for iOS then run the command pod install within the ios folder
 
 ### To run the app on an Android or iOS device, follow these steps:
 1. Connect your Android or iOS device to your computer.
@@ -15,7 +16,7 @@ This is a React Native app built with TypeScript that lets users take a quiz to 
 
 ### The app has the following features:
 - A series of multiple choice questions.
-- progress bar to indicate how far the user is in the quiz.
+- Progress bar to indicate how far the user is in the quiz.
 - "Next Question" button to move to the next question.
-- suggestion for a restaurant based on the user's answers.
-- option to retake the quiz.
+- Suggestion for a restaurant based on the user's answers.
+- Option to retake the quiz.
