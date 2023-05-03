@@ -16,7 +16,6 @@ This is a React Native app built with TypeScript that lets users take a quiz to 
 
 ### The app has the following features:
 - A series of multiple choice questions.
-- Progress bar to indicate how far the user is in the quiz.
 - "Next Question" button to move to the next question.
 - Suggestion for a restaurant based on the user's answers.
 - Option to retake the quiz.
